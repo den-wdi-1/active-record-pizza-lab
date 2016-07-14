@@ -2,9 +2,7 @@
 
 <!-- 1:00 10 mins -->
 
-<!--Hook:
-
--->
+<!--Hook: So we know how to do DB migrations now.  We also know how to model out our data.  This class is about one thing, and one thing only: practice, practice, practice.  So without further ado, let's get to CRUD with Active Record.-->
 
 ### Objectives
 *After this lesson, students will be able to:*
